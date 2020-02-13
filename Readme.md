@@ -24,12 +24,12 @@ Selain itu, kita bisa melakukan beberapa hal ini di Github :
 ```
 git init 
 ```
- perintah tersebut berfungsi untuk membuat repository. Perintah ```git init``` akan membuat sebuah direktori bernama .git di dalam proyek kita. Direktori ini digunakan Git sebagai database untuk menyimpan perubahan yang kita lakukan.
+ perintah tersebut berfungsi untuk membuat repository. Perintah `git init` akan membuat sebuah direktori bernama .git di dalam proyek kita. Direktori ini digunakan Git sebagai database untuk menyimpan perubahan yang kita lakukan.
 
  2. Menambahkan perubahan dalam direktory kerja kedalam Staging Area
  ```git add
 ```
-fungsi 'git add' Untuk mengubah kondisi file dari modified ke staged. Gunakan "." untuk menambahkan seluruh perubahan yang ada pada direktori.
+fungsi `git add` Untuk mengubah kondisi file dari modified ke staged. Gunakan "." untuk menambahkan seluruh perubahan yang ada pada direktori.
 gunakan `git status` untuk memlihat status repositorynya.
 
 3. menyimpan perubahan pada git (merubah status dari stagged ke commited)
@@ -38,3 +38,12 @@ git commit -m "Masukkah Komentar"
 ```
 Argumen "-m" untuk menambahkan pesan setiap menyimpan revisi.
 cek status git pastikan status telah berubah ke Commited.
+
+4. Melakukan Push ke GitHub
+```git push -u origin master```
+perintah untuk mengupload git ke github
+
+Sekian dari saya, Terimakasih
+
+Whatsapp & Telegram `082210204916` 
+Email `udaabudi64@gmail.com`
