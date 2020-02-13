@@ -27,7 +27,8 @@ git init
  perintah tersebut berfungsi untuk membuat repository. Perintah `git init` akan membuat sebuah direktori bernama .git di dalam proyek kita. Direktori ini digunakan Git sebagai database untuk menyimpan perubahan yang kita lakukan.
 
  2. Menambahkan perubahan dalam direktory kerja kedalam Staging Area
- ```git add
+``` 
+git add
 ```
 fungsi `git add` Untuk mengubah kondisi file dari modified ke staged. Gunakan "." untuk menambahkan seluruh perubahan yang ada pada direktori.
 gunakan `git status` untuk memlihat status repositorynya.
