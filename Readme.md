@@ -29,7 +29,7 @@ git init
  2. Menambahkan perubahan dalam direktory kerja kedalam Staging Area
  ```git add
 ```
-fungsi `git add` Untuk mengubah kondisi file dari modified ke staged. Gunakan "." untuk menambahkan seluruh perubahan yang ada pada direktori.
+fungsi 'git add' Untuk mengubah kondisi file dari modified ke staged. Gunakan "." untuk menambahkan seluruh perubahan yang ada pada direktori.
 gunakan `git status` untuk memlihat status repositorynya.
 
 3. menyimpan perubahan pada git (merubah status dari stagged ke commited)
