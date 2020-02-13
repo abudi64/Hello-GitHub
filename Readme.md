@@ -19,6 +19,10 @@ Selain itu, kita bisa melakukan beberapa hal ini di Github :
 3 Watch, mengawasi repository tertentu. Sehingga ketika ada perubahan, maka Anda akan mendapat notifikasi
 4 Fork, ini mirip copy paste kok. Ketika Anda menemukan source code programmer lain, Anda bisa melakukan fork sehingga keesokan harinya tidak perlu lagi susah - susah mencari source code tersebut. Cukup buka di repository Anda saja.
 
+Dikutip dari:
+https://klikfadhil.blogspot.com/2017/03/apa-itu-github-fungsi-dan-cara.html
+https://www.petanikode.com/git-untuk-pemula/
+
 ## langkah-langkah menambahkan project ke GitHub
 1. Menambahkan Git kedalam Project
 ```
